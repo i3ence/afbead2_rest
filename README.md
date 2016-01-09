@@ -1,2 +1,2 @@
 REST-Api szerver Családi TODO-hoz:
-https://github.com/i3ence/afbead3
+https://github.com/i3ence/familytodo
